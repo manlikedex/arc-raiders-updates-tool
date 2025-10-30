@@ -108,7 +108,7 @@ python patchforge_cli.py summary data/old.json data/new.json
 PatchForge/
 │
 ├── patchforge_core.py               # Core comparison engine
-├── patchforge_pro_colored_summary.py # GUI application
+├── patchforge.py # GUI application
 ├── patchforge_cli.py                # CLI version
 ├── settings.json                    # Saved JSON paths
 └── data/
