@@ -176,5 +176,5 @@ Open a pull request
 
 📜 License
 
-MIT License © 2025 [Your Name or Alias]
+MIT License © 2025 Dex
 Open-source and free for the Arc Raiders community.
