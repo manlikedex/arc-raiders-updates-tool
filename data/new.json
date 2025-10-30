@@ -1,0 +1,147 @@
+{
+  "weapons": [
+    {
+      "name": "Anvil III",
+      "rarity": "Uncommon",
+      "stats": {
+        "bodyDamage": 52.0,
+        "headDamage": 104.0,
+        "fireRate": 1.9,
+        "magSize": 25,
+        "timeToKill": 1.1,
+        "bodyDamageAfterFirstHit": 46.0,
+        "headDamageAfterFirstHit": 92.0
+      }
+    },
+    {
+      "name": "Ferro II",
+      "rarity": "Rare",
+      "stats": {
+        "bodyDamage": 20.0,
+        "headDamage": 40.0,
+        "fireRate": 10.5,
+        "magSize": 30,
+        "timeToKill": 1.05,
+        "bodyDamageAfterFirstHit": 18.0,
+        "headDamageAfterFirstHit": 36.0
+      }
+    },
+    {
+      "name": "Kettle I",
+      "rarity": "Common",
+      "stats": {
+        "bodyDamage": 16.0,
+        "headDamage": 32.0,
+        "fireRate": 7.2,
+        "magSize": 26,
+        "timeToKill": 1.4,
+        "bodyDamageAfterFirstHit": 14.5,
+        "headDamageAfterFirstHit": 29.0
+      }
+    },
+    {
+      "name": "Rattler IV",
+      "rarity": "Epic",
+      "stats": {
+        "bodyDamage": 10.0,
+        "headDamage": 20.0,
+        "fireRate": 13.2,
+        "magSize": 45,
+        "timeToKill": 0.85,
+        "bodyDamageAfterFirstHit": 9.0,
+        "headDamageAfterFirstHit": 18.0
+      }
+    },
+    {
+      "name": "Stitcher II",
+      "rarity": "Uncommon",
+      "stats": {
+        "bodyDamage": 27.0,
+        "headDamage": 54.0,
+        "fireRate": 5.0,
+        "magSize": 20,
+        "timeToKill": 1.0,
+        "bodyDamageAfterFirstHit": 26.0,
+        "headDamageAfterFirstHit": 52.0
+      }
+    },
+    {
+      "name": "Arpeggio I",
+      "rarity": "Uncommon",
+      "stats": {
+        "bodyDamage": 11.0,
+        "headDamage": 22.0,
+        "fireRate": 8.7,
+        "magSize": 24,
+        "timeToKill": 1.4,
+        "bodyDamageAfterFirstHit": 10.0,
+        "headDamageAfterFirstHit": 19.0
+      }
+    },
+    {
+      "name": "Il Toro",
+      "rarity": "Rare",
+      "stats": {
+        "bodyDamage": 65.0,
+        "headDamage": 130.0,
+        "fireRate": 1.1,
+        "magSize": 6,
+        "timeToKill": 1.2,
+        "bodyDamageAfterFirstHit": 58.0,
+        "headDamageAfterFirstHit": 116.0
+      }
+    },
+    {
+      "name": "Venator",
+      "rarity": "Epic",
+      "stats": {
+        "bodyDamage": 31.0,
+        "headDamage": 62.0,
+        "fireRate": 6.0,
+        "magSize": 28,
+        "timeToKill": 1.15,
+        "bodyDamageAfterFirstHit": 29.5,
+        "headDamageAfterFirstHit": 59.0
+      }
+    },
+    {
+      "name": "Bobcat",
+      "rarity": "Uncommon",
+      "stats": {
+        "bodyDamage": 18.0,
+        "headDamage": 36.0,
+        "fireRate": 11.0,
+        "magSize": 34,
+        "timeToKill": 0.98,
+        "bodyDamageAfterFirstHit": 17.0,
+        "headDamageAfterFirstHit": 34.0
+      }
+    },
+    {
+      "name": "Tempest",
+      "rarity": "Rare",
+      "stats": {
+        "bodyDamage": 14.0,
+        "headDamage": 28.0,
+        "fireRate": 11.8,
+        "magSize": 38,
+        "timeToKill": 0.95,
+        "bodyDamageAfterFirstHit": 13.0,
+        "headDamageAfterFirstHit": 26.0
+      }
+    },
+    {
+      "name": "Vulcano",
+      "rarity": "Epic",
+      "stats": {
+        "bodyDamage": 24.0,
+        "headDamage": 48.0,
+        "fireRate": 9.0,
+        "magSize": 30,
+        "timeToKill": 1.05,
+        "bodyDamageAfterFirstHit": 23.0,
+        "headDamageAfterFirstHit": 46.0
+      }
+    }
+  ]
+}
