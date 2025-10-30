@@ -1,7 +1,5 @@
 PatchForge — the Arc Raiders patch data comparison & analytics tool.
 
-This version is written to make your project shine on GitHub, Reddit, and Discord — optimized for discoverability, readability, and developer onboarding.
-
 🧾 README.md
 # ⚙️ PatchForge 
 ### Arc Raiders Patch Comparator & Data Intelligence Toolkit  
